@@ -4,6 +4,7 @@ Estado em publicado.json (evita duplicar)."""
 import json, os, sys, time, datetime as dt, requests
 V = "https://graph.facebook.com/v21.0"
 TOKEN, PAGE, IG, BASE = (os.environ[k] for k in ("META_TOKEN","FB_PAGE_ID","IG_USER_ID","BASE_URL"))
+TOKEN = requests.get(V+"/"+PAGE, params={"fields":"access_token","access_token":TOKEN}, timeout=60).json().get("access_token", TOKEN)
 DRY = os.environ.get("DRY_RUN") == "1"
 
 def post(path, **data):

@@ -1,0 +1,70 @@
+[
+ {
+  "id": "2026-11-02-carrossel",
+  "tipo": "carrossel",
+  "quando": "2026-11-02T19:30:00-03:00",
+  "arquivos": [
+   "midia/2026-11-02_carrossel_1_capa.png",
+   "midia/2026-11-02_carrossel_2_rollux.png",
+   "midia/2026-11-02_carrossel_3_romana.png",
+   "midia/2026-11-02_carrossel_4_doublevision.png",
+   "midia/2026-11-02_carrossel_5_painel.png",
+   "midia/2026-11-02_carrossel_6_cta.png"
+  ],
+  "legenda": "Rollux, Romana, Double Vision ou Painel: qual combina com o seu ambiente?\n\nCada modelo resolve um desejo diferente. A Rollux traz linhas limpas e controle da luminosidade. A Romana aquece a decoração com dobras de tecido. A Double Vision alterna faixas translúcidas e opacas: luz suave durante o dia e privacidade à noite. O Painel desliza e valoriza portas de vidro e grandes vãos.\n\nNa Persianas Grajaú, são mais de quatro décadas de tradição e cada projeto é sob medida, com acabamento impecável e instalação profissional. Nossa equipe ajuda você a escolher o modelo e o tecido ideais para o seu espaço.\n\nPeça seu orçamento e transforme o seu ambiente.\nWhatsApp (21) 96988-6511 · (21) 2577-2423\nShowroom: Rua Emília Sampaio, 96 · Vila Isabel, Rio de Janeiro\n\n#persianasgrajau #cortinassobmedida #cortinarollux #cortinaromana #doublevision #cortinapainel #decoracao #ambientesplanejados"
+ },
+ {
+  "id": "2026-11-03-story",
+  "tipo": "story_video",
+  "quando": "2026-11-03T19:30:00-03:00",
+  "arquivos": [
+   "midia/2026-11-03_story_rollux.mp4"
+  ],
+  "legenda": ""
+ },
+ {
+  "id": "2026-11-04-post",
+  "tipo": "foto",
+  "quando": "2026-11-04T19:30:00-03:00",
+  "arquivos": [
+   "midia/2026-11-04_post_tela_solar.png"
+  ],
+  "legenda": "O calor da sala entra pela janela.\n\nA Tela Solar filtra a luz do sol, favorece o conforto térmico e preserva a vista para o lado de fora, sem abrir mão da elegância. É uma boa escolha para salas, varandas, escritórios e consultórios com muita incidência de sol.\n\nSob medida para a sua janela, com projeto personalizado e instalação profissional.\n\nPeça seu orçamento.\nWhatsApp (21) 96988-6511 · (21) 2577-2423\nShowroom: Rua Emília Sampaio, 96 · Vila Isabel, Rio de Janeiro\n\n#persianasgrajau #telasolar #cortinarollux #confortotermico #controledaluminosidade #decoracao #cortinassobmedida"
+ },
+ {
+  "id": "2026-11-05-story",
+  "tipo": "story_video",
+  "quando": "2026-11-05T19:30:00-03:00",
+  "arquivos": [
+   "midia/2026-11-05_story_tela_solar.mp4"
+  ],
+  "legenda": ""
+ },
+ {
+  "id": "2026-11-06-reel",
+  "tipo": "reel",
+  "quando": "2026-11-06T19:30:00-03:00",
+  "arquivos": [
+   "midia/2026-11-06_reel_double_vision.mp4"
+  ],
+  "legenda": "Um tecido, dois ambientes.\n\nA Cortina Double Vision combina faixas translúcidas e opacas. De dia, a luz entra suave. À noite, a privacidade vem em um só movimento. Controle da luminosidade com design moderno para sala, quarto e home office.\n\nFeita sob medida, com instalação profissional.\n\nPeça seu orçamento.\nWhatsApp (21) 96988-6511 · (21) 2577-2423\nShowroom: Rua Emília Sampaio, 96 · Vila Isabel, Rio de Janeiro\n\n#persianasgrajau #doublevision #cortinassobmedida #privacidade #controledaluminosidade #decoracao #ambientesplanejados\n\n**Stories sáb 07/11 · 8h30** (reel adaptado em 2 stories)\n- stories/2026-11-07_story_reel_parte1.mp4 (15 s)\n- stories/2026-11-07_story_reel_parte2.mp4 (13 s, termina com o chamado para orçamento). Adicionar o sticker de link do WhatsApp na parte 2."
+ },
+ {
+  "id": "2026-11-07-story1",
+  "tipo": "story_video",
+  "quando": "2026-11-07T08:30:00-03:00",
+  "arquivos": [
+   "midia/2026-11-07_story_reel_parte1.mp4"
+  ],
+  "legenda": ""
+ },
+ {
+  "id": "2026-11-07-story2",
+  "tipo": "story_video",
+  "quando": "2026-11-07T08:35:00-03:00",
+  "arquivos": [
+   "midia/2026-11-07_story_reel_parte2.mp4"
+  ],
+  "legenda": ""
+ }
+]
